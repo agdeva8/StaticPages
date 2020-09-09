@@ -16,7 +16,6 @@
 "Max_Adults": "2",
 "Max_Child": "2",
 "Max_Occupancy": "3"
-
 },
 {
 "RuleType": "rule",
@@ -50,7 +49,6 @@
 "Max_Adults": "2",
 "Max_Child": "2",
 "Max_Occupancy": "3"
-
 },
 {
 "RuleType": "rule",
