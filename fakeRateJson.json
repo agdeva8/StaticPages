@@ -12,7 +12,11 @@
 "Rate_id": "1",
 "Start_Date": "2020-01-01",
 "Hotel_Name": "Shangri La's Tanjung Aru Resort and Spa  - Kota Kinabalu",
-"Blackout": "none"
+"Blackout": "none",
+"Max_Adults": "2",
+"Max_Child": "2",
+"Max_Occupancy": "3"
+
 },
 {
 "RuleType": "rule",
@@ -42,7 +46,11 @@
 "Rate_id": "2",
 "Start_Date": "2020-01-01",
 "Hotel_Name": "Shangri La's Tanjung Aru Resort and Spa  - Kota Kinabalu",
-"Blackout": "none"
+"Blackout": "none",
+"Max_Adults": "2",
+"Max_Child": "2",
+"Max_Occupancy": "3"
+
 },
 {
 "RuleType": "rule",
@@ -72,7 +80,10 @@
 "Rate_id": "3",
 "Start_Date": "2020-01-01",
 "Hotel_Name": "Shangri La's Tanjung Aru Resort and Spa  - Kota Kinabalu",
-"Blackout": "none"
+"Blackout": "none",
+"Max_Adults": "2",
+"Max_Child": "2",
+"Max_Occupancy": "3"
 },
 {
 "RuleType": "rule",
@@ -102,7 +113,10 @@
 "Rate_id": "4",
 "Start_Date": "2020-01-01",
 "Hotel_Name": "Shangri La's Tanjung Aru Resort and Spa  - Kota Kinabalu",
-"Blackout": "none"
+"Blackout": "none",
+"Max_Adults": "2",
+"Max_Child": "2",
+"Max_Occupancy": "3"
 },
 {
 "RuleType": "rule",
@@ -132,7 +146,10 @@
 "Rate_id": "5",
 "Start_Date": "2020-01-01",
 "Hotel_Name": "Shangri La's Tanjung Aru Resort and Spa  - Kota Kinabalu",
-"Blackout": "none"
+"Blackout": "none",
+"Max_Adults": "2",
+"Max_Child": "2",
+"Max_Occupancy": "3"
 },
 {
 "RuleType": "rule",
@@ -162,7 +179,10 @@
 "Rate_id": "6",
 "Start_Date": "2020-01-01",
 "Hotel_Name": "Shangri La's Tanjung Aru Resort and Spa  - Kota Kinabalu",
-"Blackout": "none"
+"Blackout": "none",
+"Max_Adults": "2",
+"Max_Child": "2",
+"Max_Occupancy": "3"
 },
 {
 "RuleType": "rule",
@@ -192,7 +212,10 @@
 "Rate_id": "7",
 "Start_Date": "2020-01-01",
 "Hotel_Name": "Shangri La's Tanjung Aru Resort and Spa  - Kota Kinabalu",
-"Blackout": "none"
+"Blackout": "none",
+"Max_Adults": "2",
+"Max_Child": "2",
+"Max_Occupancy": "3"
 },
 {
 "RuleType": "rule",
