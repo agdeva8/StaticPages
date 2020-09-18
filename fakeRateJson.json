@@ -15,8 +15,12 @@
 "Blackout": "none",
 "Max_Adults": "2",
 "Max_Child": "2",
+<<<<<<< HEAD
 "Max_Occupancy": "3",
 "Currency": "MYR"
+=======
+"Max_Occupancy": "3"
+>>>>>>> 8dd7985b82f877557387b18ed11446f5932d18df
 },
 {
 "RuleType": "rule",
@@ -49,8 +53,12 @@
 "Blackout": "none",
 "Max_Adults": "2",
 "Max_Child": "2",
+<<<<<<< HEAD
 "Max_Occupancy": "3",
 "Currency": "MYR"
+=======
+"Max_Occupancy": "3"
+>>>>>>> 8dd7985b82f877557387b18ed11446f5932d18df
 },
 {
 "RuleType": "rule",
