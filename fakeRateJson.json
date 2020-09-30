@@ -903,7 +903,6 @@
     "Max_Adults":"2",
     "Max_Child":"2",
     "Max_Occupancy":"3"
-
     },
     {
     "Hotel_Id":"CL26968660DS",
@@ -957,8 +956,7 @@
     "Special_Net_Rates":"none",
     "Max_Adults":"",
     "Max_Child":"",
-    "Max_Occupancy":"",
-
+    "Max_Occupancy":"3"
     },
     {
     "Hotel_Id":"CL26968660DS",
